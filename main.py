@@ -1,5 +1,5 @@
 def suma(a: float, b: float) -> float:
-    # TODO: Agrega el DocString
+    """Esta función suma dos números y retorna el resultado"""
     # TODO: Implementa la función
     return 0.0
 
