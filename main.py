@@ -4,7 +4,7 @@ def suma(a: float, b: float) -> float:
 
 
 def es_par(n: int) -> bool:
-    # TODO: Agrega el DocString
+    """Esta función evalua si un número es Par o no"""
     # TODO: Implementa la función
     return False
 
