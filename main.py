@@ -5,8 +5,7 @@ def suma(a: float, b: float) -> float:
 
 def es_par(n: int) -> bool:
     """Esta función evalua si un número es Par o no"""
-    # TODO: Implementa la función
-    return False
+    return (n%2==0)
 
 
 if __name__ == "__main__":
